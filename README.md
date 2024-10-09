@@ -8,4 +8,4 @@
 
 ```npm install readline```
 
-```node pandos.js```
+```node pandosv2.js```
